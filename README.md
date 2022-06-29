@@ -16,7 +16,6 @@ Here the TileExporter script in QuPath provides options to help export all or pa
 I have used this scripts in order to tessellate tumor area into square tiles of 512px×512px edge length, corresponding to 256 µm×256 µm at a resolution of 0.5 µmpx−1 (downsampled to 20× magnification) with an overlap of 50 pixels in JPG format.
 
 
-
 Example:
 
 ![Screenshot (356)](https://user-images.githubusercontent.com/89701701/176489802-83c84965-4bd3-412e-b381-3ac8288f7701.png)
