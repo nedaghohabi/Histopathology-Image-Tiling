@@ -18,10 +18,21 @@ I have used this scripts in order to tessellate tumor area into square tiles of 
 
 Example:
 
+
+
+![Screenshot (339)](https://user-images.githubusercontent.com/89701701/176624174-4ba48b29-281f-4a65-a126-853081acc399.png)
+
+  
+
+
 ![Screenshot (356)](https://user-images.githubusercontent.com/89701701/176489802-83c84965-4bd3-412e-b381-3ac8288f7701.png)
+  
+
 
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/89701701/176490196-7ddddc64-9718-43e0-aaec-96f60a09b47a.png)
+  
+
 
 
 ## Requirements:
