@@ -1,4 +1,4 @@
-# Histhopathology-image-tiling
+# Histopathology-Image-Tiling
 tessellating tumor area in whole slide images (WSI) into square tiles
 
 # What is QuPath?
