@@ -38,7 +38,7 @@ Example:
 ## Requirements:
 QuPath vesion 0.3.2
 
-## Refrences:
+## References:
 
 Bankhead, P., Loughrey, M.B., Fernández, J.A. et al. QuPath: Open source software for digital pathology image analysis. Sci Rep 7, 16878 (2017). https://doi.org/10.1038/s41598-017-17204-5
 
